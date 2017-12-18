@@ -12,7 +12,7 @@ table, th, td {
     border: 1px solid black;
 }
 </style>
-<table style="width:60%">
+<table style="width:40%">
   <tr>
     <td>Games </td>
     <td>Sprites</td>
