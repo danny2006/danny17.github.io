@@ -11,7 +11,7 @@ table, th, td {
     border: 1px solid black;
 }
 </style>
-<table style="width:100%">
+<table style="width:40%">
   <tr>
     <td>Title: Starting to make our own version of Space Invaders</td>
     <td>Date: 27/11/17</td>
