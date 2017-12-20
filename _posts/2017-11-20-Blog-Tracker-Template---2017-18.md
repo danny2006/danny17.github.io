@@ -5,17 +5,20 @@ author: daniel.thomson
 source-id: 1HcDOVprOA-kIOdk4luEna_ijcd1R_qFuVx0nERjX42Q
 published: true
 ---
-<table>
+<style>
+table, th, td {
+    border: 1px solid black;
+}
+</style>
+<table style="width:40%">
   <tr>
-    <td>Title</td>
-    <td>Learning code using scratch</td>
-    <td>Date</td>
-    <td>15/11/17</td>
+    <td>Title:Learning code using scratch</td>
+    <td>Date: 15/11/17</td>
   </tr>
-</table>
 
 
-<table>
+
+
   <tr>
     <td>Starting point:</td>
     <td>No code on the scratch code program</td>
@@ -28,10 +31,10 @@ published: true
     <td>Did I reach my target? </td>
     <td>Yes because I managed to keep up with all the work</td>
   </tr>
-</table>
 
 
-<table>
+
+
   <tr>
     <td>How did you use your learning habits this week?</td>
     <td></td>
@@ -58,20 +61,13 @@ published: true
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
-    <td></td>
-  </tr>
-  <tr>
     <td>I could have worked quicker and more accurately when I was told to work on my own</td>
-    <td></td>
   </tr>
+  
   <tr>
     <td>What changes do you need to make to improve your learning next time?</td>
-    <td></td>
-  </tr>
-  <tr>
     <td>I need to take in more of the information when  Mr. Keen is telling us what to do</td>
-    <td></td>
   </tr>
+  
 </table>
-
 
